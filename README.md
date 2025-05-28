@@ -81,7 +81,7 @@ python create_ml_project.py my_ml_project .
 ├── Makefile
 └── .gitignore
 
-
+```
 ---
 
 ## Description of Key Folders and Files
